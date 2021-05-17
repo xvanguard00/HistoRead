@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.historyread" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HistoryRead" >
+        <activity
+            android:name=".wwtwoActivity"
+            android:label="@string/title_activity_wwtwo"
+            android:theme="@style/Theme.HistoryRead.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".wwoneActivity"
+            android:label="@string/title_activity_ww1"
+            android:theme="@style/Theme.HistoryRead.NoActionBar" />
+        <activity android:name=".historyActivity" />
+        <activity
+            android:name=".paganActivity"
+            android:label="@string/title_activity_pagan"
+            android:theme="@style/Theme.HistoryRead.NoActionBar" />
+        <activity
+            android:name=".greekActivity"
+            android:label="@string/title_activity_greek"
+            android:theme="@style/Theme.HistoryRead.NoActionBar" />
+        <activity
+            android:name=".romanActivity"
+            android:label="@string/title_activity_roman"
+            android:theme="@style/Theme.HistoryRead.NoActionBar" />
+        <activity
+            android:name=".norseActivity"
+            android:label="@string/title_activity_norse"
+            android:theme="@style/Theme.HistoryRead.NoActionBar" />
+        <activity android:name=".mythologyActivity" />
+        <activity android:name=".MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

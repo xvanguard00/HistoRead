@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">HistoryRead</string>
+    <string name="title_activity_norse">Norse Mythology</string>
+    <string name="norse_text">
+        "
+        Norse mythology is the body of myths of the North Germanic peoples,
+        stemming from Norse paganism and continuing after the Christianization of Scandinavia,
+        and into the Scandinavian folklore of the modern period. The northernmost extension of Germanic mythology,
+        Norse mythology consists of tales of various deities, beings, and heroes derived from numerous sources from both before and after the pagan period,
+        including medieval manuscripts, archaeological representations, and folk tradition.\n
+        The source texts mention numerous gods, such as the hammer-wielding, humanity-protecting thunder-god Thor, who relentlessly fights his foes
+        The one-eyed, raven-flanked god Odin, who craftily pursues knowledge throughout the worlds and bestowed among humanity the runic alphabet
+        The beautiful, seiðr-working, feathered cloak-clad goddess Freyja who rides to battle to choose among the slain
+        The vengeful, skiing goddess Skaði, who prefers the wolf howls of the winter mountains to the seashore
+        The powerful god Njörðr, who may calm both sea and fire and grant wealth and land
+        The god Freyr, whose weather and farming associations bring peace and pleasure to humanity
+        The goddess Iðunn, who keeps apples that grant eternal youthfulness
+        The mysterious god Heimdallr, who is born of nine mothers, can hear grass grow, has gold teeth, and possesses a resounding horn
+        The jötunn Loki, who brings tragedy to the gods by engineering the death of the goddess Frigg's beautiful son Baldr; and numerous other deities.
+        "
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_roman">Roman Mythology</string>
+    <string name="roman_text">
+        "
+        Roman mythology is the body of myths of ancient Rome as represented in the literature and visual arts of the Romans.\n
+        One of a wide variety of genres of Roman folklore, Roman mythology may also refer to the modern study of these representations, and to the subject matter as represented in the literature and art of other cultures in any period.
+        \nRoman mythology draws from the mythology of the Italic peoples and ultimately from Proto-Indo-European mythology.
+        "
+    </string>
+    <string name="title_activity_greek">Greek Mythology</string>
+    <string name="greek_text">
+        "
+        Greek mythology is the body of myths originally told by the ancient Greeks, and a genre of Ancient Greek folklore.\n
+        These stories concern the origin and nature of the world, the lives and activities of deities, heroes, and mythological creatures, and the origins and significance of the ancient Greeks' own cult and ritual practices.\n
+        Modern scholars study the myths to shed light on the religious and political institutions of ancient Greece, and to better understand the nature of myth-making itself.\n
+        "
+    </string>
+    <string name="title_activity_pagan">Pagan Mythology</string>
+    <string name="pagan_text">
+        "
+        Paganism (from classical Latin pāgānus "rural", "rustic", later "civilian") is a term first used pejoratively in the fourth century by early Christians for people in the Roman Empire who practiced polytheism or ethnic religions other than Judaism.\n
+        In the time of the Roman empire, individuals fell into the pagan class either because they were increasingly rural and provincial relative to the Christian population, or because they were not milites Christi (soldiers of Christ).\n
+        Alternative terms in Christian texts were hellene, gentile, and heathen. Ritual sacrifice was an integral part of ancient Graeco-Roman religion and was regarded as an indication of whether a person was pagan or Christian.
+        Paganism has broadly connoted the "religion of the peasantry".
+        "
+    </string>
+    <string name="title_activity_ww1">World War I</string>
+    <string name="worldwar1">
+        "
+        World War I or the First World War, often abbreviated as WWI or WW1, was a global war originating in Europe that lasted from 28 July 1914 to 11 November 1918.
+        Contemporaneously known as the Great War or "the war to end all wars", it led to the mobilisation of more than 70 million military personnel, including 60 million Europeans, making it one of the largest wars in history.
+        It also was one of the deadliest conflicts in history, with an estimated 8.5 million combatant deaths and 13 million civilian deaths as a direct result of the war, while resulting genocides and the related 1918 Spanish flu pandemic caused another 17–100 million deaths worldwide, including an estimated 2.64 million Spanish flu deaths in Europe and as many as 675,000 Spanish flu deaths in the United States.
+        "
+    </string>
+    <string name="title_activity_wwtwo">World War II</string>
+    <string name="worldwar2">
+        "
+        World War II or the Second World War, often abbreviated as WWII or WW2, was a global war that lasted from 1939 to 1945.
+        It involved the vast majority of the world's countries—including all the great powers—forming two opposing military alliances: the Allies and the Axis powers.
+        In a state of total war, directly involving more than 100 million personnel from more than 30 countries, the major participants threw their entire economic, industrial, and scientific capabilities behind the war effort, blurring the distinction between civilian and military resources.
+        Aircraft played a major role in the conflict, including the strategic bombing of population centres, and, with the development of nuclear weapons, the only two uses of such in war.
+        World War II was the deadliest conflict in human history, resulting in 70 to 85 million fatalities, with more civilians than military personnel killed.
+        Tens of millions of people died due to genocides (including the Holocaust), starvation, massacres, and disease. In the wake of the war, Germany and Japan were occupied, and war crimes tribunals were conducted against German and Japanese leaders.
+        "
+    </string>
+</resources>
